@@ -1,0 +1,6 @@
+# Nuget Packages and compiled files
+**/bin
+**/obj
+
+# Jetbrains Rider files
+.idea

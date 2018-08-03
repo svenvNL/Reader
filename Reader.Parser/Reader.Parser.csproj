@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <LangVersion>7.2</LangVersion>
+    <AssemblyName>Reader.Parser</AssemblyName>
+    <RootNamespace>Reader.Parser</RootNamespace>
+  </PropertyGroup>
+</Project>
